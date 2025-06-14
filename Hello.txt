@@ -1,3 +1,6 @@
+System.out.println("a sample snippet");
+
+
 Hello from git hub
 
 thsi is to say hello

@@ -1,1 +1,7 @@
 writing a noval with the inspiration of JK Rowling 
+System.out.println("a sample snippet");
+
+
+Hello from git hub
+
+thsi is to say hello
